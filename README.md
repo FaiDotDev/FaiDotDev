@@ -54,6 +54,9 @@ A passionate <b>Web & Mobile Application Developer</b> who loves developing web 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=FaiDotDev&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=FaiDotDev&theme=aura&hide_border=false)<br/>
