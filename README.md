@@ -57,7 +57,7 @@ A passionate <b>Web & Mobile Application Developer</b> who loves developing web 
 
 <br>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=FaiDotDev&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=FaiDotDev&theme=aura&hide_border=false)<br/>
 
