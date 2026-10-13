@@ -17,9 +17,9 @@ A passionate <b>Web & Mobile Application Developer</b> who loves developing web 
 <h2>⚡ What I Do</h2>
 <li>🌐 Building responsive and high-performance Web Applications.</li>
 <br>
-📱 Developing cross-platform Mobile Applications with Flutter.
+<li>📱 Developing cross-platform Mobile Applications with Flutter.</li>
 <br>
-🗄️ Managing and integrating SQL & NoSQL Databases.
+<li>🗄️ Managing and integrating SQL & NoSQL Databases.</li>
 <br><br>
 <h2>📫 Connect with Me</h2>
 ✉️ Email: faiyazkarimannoor@gmail.com
