@@ -15,11 +15,13 @@ A passionate <b>Web & Mobile Application Developer</b> who loves developing web 
 <h3>Database</h3> MongoDB, SQLite, Firebase
 <br><br>
 <h2>⚡ What I Do</h2>
+<ul>
 <li>🌐 Building responsive and high-performance Web Applications.</li>
 <br>
 <li>📱 Developing cross-platform Mobile Applications with Flutter.</li>
 <br>
 <li>🗄️ Managing and integrating SQL & NoSQL Databases.</li>
+ </ul>
 <br><br>
 <h2>📫 Connect with Me</h2>
 ✉️ Email: faiyazkarimannoor@gmail.com
