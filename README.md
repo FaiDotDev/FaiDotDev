@@ -63,5 +63,3 @@ A passionate <b>Web & Mobile Application Developer</b> who loves developing web 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=FaiDotDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=FaiDotDev&icon=0&color=0)](https://visitcount.itsvg.in)
