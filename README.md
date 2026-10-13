@@ -22,7 +22,7 @@ A passionate <b>Web & Mobile Application Developer</b> who loves developing web 
 🗄️ Managing and integrating SQL & NoSQL Databases.
 <br><br>
 <h2>📫 Connect with Me</h2>
-<a href="faiyazkarimannoor@gmail.com">✉️ Email</a>
+✉️ Email: faiyazkarimannoor@gmail.com
 
 
 ## 🌐 Socials:
