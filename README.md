@@ -25,7 +25,7 @@ A passionate <b>Web & Mobile Application Developer</b> who loves developing web 
 <br>
 <h2>📫 Connect with Me</h2>
 ✉️ Email: faiyazkarimannoor@gmail.com
-<br><br><br>
+<br><br>
 
 ## 🌐 Socials
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faiyazkarimannoor@gmail.com) 
@@ -61,7 +61,7 @@ A passionate <b>Web & Mobile Application Developer</b> who loves developing web 
 ![](https://github-readme-stats.shion.dev/api?username=FaiDotDev&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=FaiDotDev&theme=aura&hide_border=false)<br/>
 
-
+<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FaiDotDev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
