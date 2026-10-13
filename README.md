@@ -65,5 +65,3 @@ A passionate <b>Web & Mobile Application Developer</b> who loves developing web 
 
 ---
 [![](https://komarev.com/ghpvc/?username=FaiDotDev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
