@@ -16,7 +16,6 @@ A passionate <b>Web & Mobile Application Developer</b> who loves developing web 
 <br><br>
 <h2>⚡ What I Do</h2>
 🌐 Building responsive and high-performance Web Applications.
-<br>
 📱 Developing cross-platform Mobile Applications with Flutter.
 <br>
 🗄️ Managing and integrating SQL & NoSQL Databases.
