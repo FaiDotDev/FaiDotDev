@@ -25,12 +25,12 @@ A passionate <b>Web & Mobile Application Developer</b> who loves developing web 
 <br>
 <h2>📫 Connect with Me</h2>
 ✉️ Email: faiyazkarimannoor@gmail.com
-<br><br>
+<br><br><br>
 
 # 🌐 Socials
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faiyazkarimannoor@gmail.com) 
 
-<br><br>
+<br>
 
 # 💻 Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
