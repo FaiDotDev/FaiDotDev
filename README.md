@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Hi there, I'm Faiyaz Karim Annoor 👋
 <br>
-A passionate **Web & Mobile Application Developer** who loves developing web applications and mobile apps using modern technologies.
+A passionate <br></b>Web & Mobile Application Developer<br> who loves developing web applications and mobile apps using modern technologies.
 <br><br>
 <h2>💻 Technologies & Tools</h2>
 <h3>Languages</h3> JavaScript, TypeScript, Dart
