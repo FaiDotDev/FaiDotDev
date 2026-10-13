@@ -3,7 +3,11 @@
 <br><br>
 A passionate **Web & Mobile Application Developer** who loves developing web applications and mobile apps using modern technologies.
 <br><br><br>
-💻 Technologies & Tools<br><br> <h3>Languages</h3> JavaScript, TypeScript, Dart<br> <h3>Web Frameworks</h3> React.js, Next.js, Node.js, Express.js, Tailwind CSS <br> <h3>Markup & Styling</h3> HTML5, CSS3<br> <h3>Cross Platform  Framework</h3> Flutter <br> <h3>Database</h3> MongoDB, SQLite, Firebase<br><br><br> ⚡ What I Do<br><br> 🌐 Building responsive and high-performance Web Applications.<br> 📱 Developing cross-platform Mobile Applications with Flutter.<br> 🗄️ Managing and integrating SQL & NoSQL Databases.<br><br><br><br> 📫 Connect with Me<br><br> ✉️ Email: faiyazkarimannoor@gmail.com
+<h2>💻 Technologies & Tools</h2>
+<br><br>
+<h3>Languages</h3> JavaScript, TypeScript, Dart
+<br>
+<h3>Web Frameworks</h3> React.js, Next.js, Node.js, Express.js, Tailwind CSS <br> <h3>Markup & Styling</h3> HTML5, CSS3<br> <h3>Cross Platform  Framework</h3> Flutter <br> <h3>Database</h3> MongoDB, SQLite, Firebase<br><br><br> ⚡ What I Do<br><br> 🌐 Building responsive and high-performance Web Applications.<br> 📱 Developing cross-platform Mobile Applications with Flutter.<br> 🗄️ Managing and integrating SQL & NoSQL Databases.<br><br><br><br> 📫 Connect with Me<br><br> ✉️ Email: faiyazkarimannoor@gmail.com
 
 
 ## 🌐 Socials:
